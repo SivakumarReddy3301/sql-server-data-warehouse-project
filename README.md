@@ -1,6 +1,12 @@
 # sql-server-data-warehouse-project
 ✅ Modern Warehouse with SQL Server including ETL process, Data modeling and Analytics.
 
+**Data Architecture Diagram**
+
+![data architecture](https://github.com/user-attachments/assets/622e7a07-f373-471c-aab0-229a0c306bee)
+
+
+
 ⚙️ Setup Instructions
 
 1. Clone the repository
