@@ -1,4 +1,4 @@
-# sql-server-data-warehouse-project
+# SQL Server Data Warehousing
 ✅ Modern Warehouse with SQL Server including ETL process, Data modeling and Analytics.
 
 **Data Architecture Diagram**
